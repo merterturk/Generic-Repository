@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.Console.UI.exe.config
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.Console.UI.exe
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.Console.UI.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.DAL.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.Entity.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.DAL.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.DAL.dll.config
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\PersonnelApp.Entity.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\obj\Debug\PersonnelApp.Console.UI.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\obj\Debug\PersonnelApp.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\obj\Debug\PersonnelApp.Console.UI.csproj.CopyComplete
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\obj\Debug\PersonnelApp.Console.UI.exe
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Console.UI\obj\Debug\PersonnelApp.Console.UI.pdb

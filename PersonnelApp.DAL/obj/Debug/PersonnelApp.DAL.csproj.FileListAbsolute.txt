@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\PersonnelApp.DAL.dll.config
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\PersonnelApp.DAL.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\PersonnelApp.DAL.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\PersonnelApp.Entity.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\PersonnelApp.Entity.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.csproj.CopyComplete
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.Migrations.Init.resources
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.DAL\obj\Debug\PersonnelApp.DAL.csproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Entity\bin\Debug\PersonnelApp.Entity.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Entity\bin\Debug\PersonnelApp.Entity.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\PersonnelApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\PersonnelApp.Entity.dll
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\PersonnelApp.Entity.pdb
+C:\Users\asus\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\PersonnelApp.Entity.csprojAssemblyReference.cache
